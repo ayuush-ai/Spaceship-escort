@@ -1047,7 +1047,7 @@ context.imageSmoothingEnabled = false;
 resize();	
 
 
-=======
+
 var sizeRatio = canvas.width / 100;
 
 var fps = 60,
